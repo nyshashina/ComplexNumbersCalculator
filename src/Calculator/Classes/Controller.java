@@ -9,7 +9,6 @@ public class Controller implements ICalculatorController {
 
     public Controller(ICalculationModel cmodel) {
         this.cmodel = cmodel;
-        // TODO + логгер
     }
     @Override
     public void exit() {
