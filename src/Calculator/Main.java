@@ -1,9 +1,6 @@
 package Calculator;
 
 import Calculator.Classes.Controller;
-import Calculator.Classes.Core.CalcInput;
-import Calculator.Classes.Core.CalcOp;
-import Calculator.Classes.Core.ComplexNumber;
 import Calculator.Classes.CalculationModel;
 import Calculator.Classes.LoggingController;
 import Calculator.Classes.TextCalculatorView;
